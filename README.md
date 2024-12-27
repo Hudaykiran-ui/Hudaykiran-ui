@@ -27,11 +27,11 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a passionate Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, crafting seameless experiences from front to back.
+I am a passionate Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, crafting seameless experiences from front to back.
 
 - 🌱 I’m currently learning **React Js ,JavaScript**
 
-- 💬 Ask me about **Front-end Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **hudaykiransiddi@gmail.com**
 
