@@ -21,7 +21,7 @@
          , I'm Hudaykiran
       </h1>
       <div align="center">
-        <img alt="Coding" height="300" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 40px;">
+        <img alt="Coding" height="300" width="600" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" style="border-radius: 40px;">
       </div>
 
 ---
