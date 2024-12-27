@@ -20,22 +20,22 @@
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
          , I'm Hudaykiran
       </h1>
-      <div align="center">
+<!--       <div align="center">
         <img alt="Coding" height="300" width="600" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" style="border-radius: 40px;">
-      </div>
-
----
+      </div> -->
 
 ### :woman_technologist: About Me :
 Hi there! I'm **Hudaykiran**, an enthusiastic **Frontend Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  with a passion for crafting seamless user experiences and visually appealing web interfaces. I specialize in building responsive, interactive, and performance-optimized web applications using modern tools and technologies.
 
+   <img alt="Coding" height="210" width="400" align="right" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" style="border-radius: 40px;">
+    
 ### 🔧 My Skillset:
 - **Frontend Technologies:**  
   - HTML5, CSS3, JavaScript (ES6+), React.js  
 - **Responsive Design:**  
   - Creating adaptable layouts for mobile and desktop  
 - **Backend Exploration:**  
-  - Learning Node.js for server-side development  
+  - Learning Node.js for server-side development
 
 ### 🌱 What I'm Currently Up To:
 -  Currently exploring React.js to enhance my front-end development skills and build dynamic web applications."
